@@ -1,0 +1,136 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+********************************************************************
+*                                                                  *
+*                   Let's Play Rock Paper Scicors                  *
+*                                                                  *
+********************************************************************
+
+[1] Begin Tournament
+[2] Exit
+[?] Pick your option: 
+
+Enter the number of players that would like to participate: 
+We are adding 1 AIs to the tournament Match Making.
+Enter the name of player 1: Enter the name of player 2: Enter the name of player 3: Enter the name of AI 1: 
+alex 4 vs manish 1
+taking player 1 move
+Computer's Move is: s
+taking player 2 move
+Enter your move: 
+Move of alex is: s and Move of manish is r
+manish wins
+
+ravi 3 vs karan 2
+taking player 1 move
+Enter your move: taking player 2 move
+Enter your move: 
+Move of ravi is: p and Move of karan is r
+ravi wins
+
+manish 1 vs ravi 3
+taking player 1 move
+Enter your move: taking player 2 move
+Enter your move: 
+Move of manish is: p and Move of ravi is r
+manish wins
+
+
